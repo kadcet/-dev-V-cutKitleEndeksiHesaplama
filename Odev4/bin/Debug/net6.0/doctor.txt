@@ -1,0 +1,1 @@
+[{"doktorNo":1,"doktorAd":"umut","dokorSoyad":"erg\u00FCn"},{"doktorNo":2,"doktorAd":"ahmet","dokorSoyad":"\u00E7etin"}]
